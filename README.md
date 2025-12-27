@@ -1,4 +1,5 @@
 # AI Research & Summary Agent
+![Workflow Overview](assets/workflow-overview.png)
 
 This project is an Agentic AI workflow designed to automate online research and convert it into clear, structured summaries.
 
